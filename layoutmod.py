@@ -1,3 +1,8 @@
+# 
+# utility generating partition layout of spi flash memory for openwrt
+#
+######### ######## ####### ###### ##### #### ### ## # #
+
 import sys
 
 
